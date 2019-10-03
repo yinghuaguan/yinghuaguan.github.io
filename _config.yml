@@ -41,6 +41,7 @@ links:
     - title: about me
       url: /about
       key_trigger: 4
+      
   section_2:
     - title: github
       url: http://www.github.com/yinghuaguan
