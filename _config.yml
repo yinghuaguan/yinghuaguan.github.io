@@ -5,12 +5,11 @@ baseurl: "/yinghuaguan.github.io" # for test: remove string '/space-jekyll-templ
 url: "http://yinghuaguan.github.io" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.github.io'
 
 # User settings
-username: Yinghua Guan
-user_title: Yinghua Guan
+username: 🤓Yinghua Guan💻
+user_title: 🤓Yinghua Guan💻
 email: yinghuaguan.ca@gmail.com
-twitter_username:
+
 github_username:  yinghuaguan
-gplus_username:
 linkedin_public_url: yinghuaguan # Example: For public profile 'www.linkedin.com/in/john-smith', 'john-smith' is your linkedin_public_url
 disqus_username: yinghuaguan
 profile_picture: https://media.licdn.com/dms/image/C4D03AQEShV4QicuCaA/profile-displayphoto-shrink_200_200/0?e=1575504000&v=beta&t=w8gcZDSGDcP_CA1J2d6hXbSkB5kg_XOuKDKEhuDSumI
