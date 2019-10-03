@@ -5,8 +5,8 @@ baseurl: "/yinghuaguan.github.io" # for test: remove string '/space-jekyll-templ
 url: "http://yinghuaguan.github.io" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.github.io'
 
 # User settings
-username: Yinghua Guan
-user_title: Yinghua Guan
+username: 🤓Yinghua Guan💻
+user_title: 🤓Yinghua Guan💻
 email: yinghuaguan.ca@gmail.com
 
 github_username:  yinghuaguan
@@ -35,15 +35,12 @@ links:
     - title: my posts
       url: /posts
       key_trigger: 2
-    - title: series
-      url: /series
-      key_trigger: 3
     - title: tags
       url: /tags
-      key_trigger: 4
+      key_trigger: 3
     - title: about me
       url: /about
-      key_trigger: 5
+      key_trigger: 4
   section_2:
     - title: github
       url: http://www.github.com/yinghuaguan
@@ -55,12 +52,12 @@ links:
 
 # projects in header index
 projects:
-  - name: fluany
-    url: https://github.com/fluany/fluany
-  - name: vim-frontend
-    url: https://github.com/victorvoid/vim-frontend
-  - name: generator-capybara
-    url: https://github.com/victorvoid/generator-capybara
+  - name: [NLP] Text Similarity Detector
+    url: https://github.com/yinghuaguan/portfolio/tree/master/NLP_projects/Text-Similarity-Detector-API
+  - name: [Computer Vision] Landmark Detection Tracking
+    url: https://github.com/yinghuaguan/portfolio/tree/master/Computer_Vision_Projects/P3_Landmark_Detection_Tracking
+  - name: [Open Source Tool] BlackBox-Python
+    url: https://github.com/yinghuaguan/portfolio/tree/master/open_source_development/BlackBox_Python
 
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
