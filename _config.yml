@@ -41,7 +41,7 @@ links:
     - title: about me
       url: /about
       key_trigger: 4
-      
+
   section_2:
     - title: github
       url: http://www.github.com/yinghuaguan
@@ -53,12 +53,12 @@ links:
 
 # projects in header index
 projects:
-  - name: [NLP] Text Similarity Detector
+  - name: Text-Similarity-Detector-API
     url: https://github.com/yinghuaguan/portfolio/tree/master/NLP_projects/Text-Similarity-Detector-API
-  - name: [Computer Vision] Landmark Detection Tracking
-    url: https://github.com/yinghuaguan/portfolio/tree/master/Computer_Vision_Projects/P3_Landmark_Detection_Tracking
-  - name: [Open Source Tool] BlackBox-Python
-    url: https://github.com/yinghuaguan/portfolio/tree/master/open_source_development/BlackBox_Python
+  #- name: [Computer Vision] Landmark Detection Tracking
+  #  url: https://github.com/yinghuaguan/portfolio/tree/master/Computer_Vision_Projects/P3_Landmark_Detection_Tracking
+  #- name: [Open Source Tool] BlackBox-Python
+  #  url: https://github.com/yinghuaguan/portfolio/tree/master/open_source_development/BlackBox_Python
 
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
