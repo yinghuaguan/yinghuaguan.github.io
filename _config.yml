@@ -44,6 +44,8 @@ links:
     - title: about me
       url: /about
       key_trigger: 5
+
+  section_2:
     - title: search
       url: ""
       key_trigger: s #WARNING: search only works with "s"
