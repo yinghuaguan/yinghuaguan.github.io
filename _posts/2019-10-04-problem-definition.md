@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "A Practical Guide to AI Project Development, Part 1: Problem Definition"
-image: ''
+image: '\assets\img\data.png'
 date:   2019-10-04 10:00:00
 tags:
 - AI Dev
-description:
+description: 'AI Development Cycle: 1. Problem Definition'
 ---
 
 If you’re interested in using Machine Learning (ML) to enhance your existing product in the real world, it’s important to understand how AI development functions within the lifecycle and context of a software development project. According to a recent survey by Gartner, industry-leading organizations have, on average, four AI
