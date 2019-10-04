@@ -1,0 +1,17 @@
+---
+layout: minimal
+title: "Projects"
+permalink: /projects/index.html
+image: '/assets/img/series.png'
+description: "Take a look at my projects..."
+---
+
+<h2>My projects</h2>
+
+<div class="project">
+	<ul class="recent">
+		{% for project in site.projects %}
+	    	<li><a href="{{ project.url}}"><h3 class="project-name" itemprop="name">{{ project.name }}</h3></a></li>
+	    {% endfor %}
+	</ul>
+</div>
