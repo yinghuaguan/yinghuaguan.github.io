@@ -58,6 +58,11 @@ projects:
     url: https://github.com/yinghuaguan/portfolio/tree/master/Computer_Vision_Projects/P3_Landmark_Detection_Tracking
   - name: BlackBox-Python
     url: https://github.com/yinghuaguan/portfolio/tree/master/open_source_development/BlackBox_Python
+  - name: Image-Captioning
+    url: https://github.com/yinghuaguan/portfolio/tree/master/Computer_Vision_Projects/P2_Image_Captioning
+  - name: Facial-Keypoints
+    url: https://github.com/yinghuaguan/portfolio/tree/master/Computer_Vision_Projects/P1_Facial_Keypoints
+
 
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
